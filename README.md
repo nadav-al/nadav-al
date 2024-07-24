@@ -11,18 +11,19 @@ I am a Computer Science graduate with a passion for computer graphics, AI, ML, a
 - In animation, the most important frames in a shot are called keyframes. While in digital (3D) animation, the computer can interpolate the keyframes by itself, there is no solution for classical 2D animation - each frame must be hand-drawn by an animator.
 - In this project, I am building a model based on the Diffusion architecture for generative images and videos. My model would provide a solution to the need to automate the hand-drawn animation pipeline.
 
-### 2. Machine Learning – Classification of Wildfires in the US
-**Technologies:** Python, NumPy
-
-- As part of a competitive lab in a data science course, my team and I trained an XGBoost classification model that predicts the cause of a wildfire from a span of 12 possible causes.
-- We preprocessed the data and analyzed it to find trends that will help us perform a better classification.
-
-### 3. Escult – PC Puzzle Game
+### 2. Escult – PC Puzzle Game
 **Technologies:** C# (Unity's library)
 
 - As part of a Game Jam course, my team and I developed a puzzle game. In the game, you play both roles of a girl and a cat made of blood. In each level, you need to use the cat’s 9 souls to solve the puzzle.
 - The game was developed within 5 weeks during the first semester of my third year.
 - [View and play the game](#)
+
+### 3. Machine Learning – Classification of Wildfires in the US
+**Technologies:** Python, NumPy
+
+- As part of a competitive lab in a data science course, my team and I trained an XGBoost classification model that predicts the cause of a wildfire from a span of 12 possible causes.
+- We preprocessed the data and analyzed it to find trends that will help us perform a better classification.
+
 
 ### 4. Computer Graphics (Project 4) – Shaders, Materials and Textures
 **Technologies:** C# (Unity's library)
