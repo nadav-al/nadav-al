@@ -19,7 +19,7 @@ I am a Computer Science graduate with a passion for computer graphics, AI, ML, a
 - [View and play the game](#)
 
 ### 3. Machine Learning – Classification of Wildfires in the US
-**Technologies:** Python, NumPy
+**Technologies:** Python, Pandas, NumPy
 
 - As part of a competitive lab in a data science course, my team and I trained an XGBoost classification model that predicts the cause of a wildfire from a span of 12 possible causes.
 - We preprocessed the data and analyzed it to find trends that will help us perform a better classification.
