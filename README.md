@@ -51,8 +51,8 @@ I am a Computer Science graduate with a passion for computer graphics, AI, ML, a
 - [View the game](#)
 
 ## Skills
-- **Programming Languages:** Python, C, C++, Java
-- **Skills and Concepts:** OOP, AI and Machine Learning, Algorithms, Computer Graphics, OS
+- **Programming Languages:** Python, C, C++, C# (Unity's library), Java
+- **Skills and Concepts:** OOP, Computer Graphics, AI and Machine Learning, Algorithms, OS
 - **Tools and Libraries:** Unity, Pytorch, Huggingface, NumPy, Pandas
 
 Feel free to check out my repositories to see the code and more details about my projects!
