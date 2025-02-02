@@ -5,7 +5,7 @@ I am a Computer Science graduate with a passion for computer graphics, AI, ML, a
 
 ## Projects
 
-### 1. Machine Learning (Guided Project) – Keyframes Interpolation in Animation
+### 1. Machine Learning (Tutorial Work) – Keyframes Interpolation in Animation
 **Technologies:** Python, Pytorch, Huggingface
 
 - In animation, the most important frames in a shot are called keyframes. While in digital (3D) animation, the computer can interpolate the keyframes by itself, there is no solution for classical 2D animation - each frame must be hand-drawn by an animator.
@@ -25,8 +25,8 @@ I am a Computer Science graduate with a passion for computer graphics, AI, ML, a
 - We preprocessed the data and analyzed it to find trends that will help us perform a better classification.
 
 
-### 4. Computer Graphics (Project 4) – Shaders, Materials and Textures
-**Technologies:** C# (Unity's library)
+### 4. Computer Graphics – Shaders, Materials and Textures
+**Technologies:** C#, HLSL
 
 - Gained experience with texture mapping and sampling, lighting, and noise algorithms like Perlin Noise.
 - Created shaders in Unity for Bricks, Earth, and Water textures.
